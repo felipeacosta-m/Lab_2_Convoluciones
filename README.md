@@ -13,7 +13,7 @@ Con esto procedíamos a graficarlo ubicando en X las posiciones de las muestras 
 Después de esto procedió a volver a encontrar la señal 𝑦[𝑛] resultante de la convolución utilizando Python para ello se utiliza esta parte del código.  
 Donde definiamos como arreglos el sistema h[n] y la señal x[n] para cada uno de los integrantes, para proceder a utilizar la función “convolve” que realiza la convolución. Y añadimos un print para comparar los resultados entre el manual y el digital.
 
-![image](https://github.com/felipeacosta-m/Lab_2_Convoluciones/blob/eece1624e112bbb9cd459f4693033f065b5e444b/Correlaciones.jpg)
+![image](https://github.com/felipeacosta-m/Lab_2_Convoluciones/blob/92fb9b8bfe626eb4e718d41d07288c9cb2d94854/Grafica%20convoluciones.jpg)
 
 ## Correlación entre señales 
 Para la segunda parte del código, se evaluan la correlación de dos señales que en este caso son : 
